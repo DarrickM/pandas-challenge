@@ -1,0 +1,8 @@
+The provided data includes 15 schools and information on students,
+ reading and math scores, school type, and their budget.Through 
+this I was able to calculate data on average test scoresand passing 
+rates, per capita budget, school size, and how they correlate 
+between each other. For example, schools with larget per capita 
+budgets have an on average lower test scores and passing rates. 
+And, charter schools have an on average higher test scores and 
+passing rates.
